@@ -1,4 +1,6 @@
-# -*- coding=utf-8 -*-
+# sudo pip3 install --upgrade pip
+# sudo pip3 install pillow
+# vim output.txt
 
 from PIL import Image
 import argparse
